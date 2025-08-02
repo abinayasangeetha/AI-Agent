@@ -1,7 +1,7 @@
 
 ---
 
-#  AI Agent Terminal App
+#  Terminal-based Conversational AI Agent using LangGraph and Groq
 
 This is a terminal-based **AI Agent application** that allows users to ask natural language questions and receive intelligent answers using the **LLaMA3-8B model** via **Groq API**, orchestrated using **LangGraph** and **LangChain**.
 
