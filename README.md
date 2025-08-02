@@ -103,7 +103,7 @@ Example output:
 
 ---
 
-## Terminal Screenshot
+## Output Screenshot
 
 <img width="1193" height="200" alt="Screenshot 2025-08-02 153927" src="https://github.com/user-attachments/assets/59cd5aaf-2cf5-4eac-bdad-afb8e2dac28d" />
 
