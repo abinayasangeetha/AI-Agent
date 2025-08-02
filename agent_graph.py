@@ -6,7 +6,7 @@ from langchain_core.runnables import RunnableLambda
 import os
 
 # Setup Groq API
-os.environ["GROQ_API_KEY"] = "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"  # Replace with your real key
+os.environ["GROQ_API_KEY"] = "gsk_......A"  # Replace with your real key
 
 llm = ChatGroq(
     temperature=0,
@@ -47,3 +47,4 @@ workflow.add_node("end", lambda x: x)  # dummy end node
 
 # Compile the graph
 graph = workflow.compile()
+
